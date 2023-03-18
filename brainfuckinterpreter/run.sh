@@ -1,0 +1,3 @@
+javac brainfuckinterpreter/Main.java
+java brainfuckinterpreter/Main brainfuckinterpreter/PARAM01 < brainfuckinterpreter/INPUT01 > brainfuckinterpreter/OUTPUT01
+cat brainfuckinterpreter/OUTPUT01
